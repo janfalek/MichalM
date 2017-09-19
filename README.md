@@ -1,3 +1,3 @@
 # MichalM
 Project for learning with Michal M
-No
+Yes and Yes
